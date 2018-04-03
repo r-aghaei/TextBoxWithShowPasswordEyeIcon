@@ -47,11 +47,10 @@
             // 
             // exTextBox2
             // 
-            this.exTextBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.exTextBox2.Location = new System.Drawing.Point(12, 12);
             this.exTextBox2.Name = "exTextBox2";
             this.exTextBox2.ShowPasswordEye = true;
-            this.exTextBox2.Size = new System.Drawing.Size(239, 44);
+            this.exTextBox2.Size = new System.Drawing.Size(239, 26);
             this.exTextBox2.TabIndex = 0;
             this.exTextBox2.Text = "password";
             this.exTextBox2.UseSystemPasswordChar = true;
